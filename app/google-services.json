@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347510839014",
+    "firebase_url": "https://aspinax-lipay-com.firebaseio.com",
+    "project_id": "aspinax-lipay-com",
+    "storage_bucket": "aspinax-lipay-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347510839014:android:69a64839b60157d5",
+        "android_client_info": {
+          "package_name": "com.aspinax.lipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347510839014-id63lrkjiq4p6bep38fago2q3kdcji6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aspinax.lipay",
+            "certificate_hash": "b4bd3a05cd9dce1035f969213bbfad10fc5a3b51"
+          }
+        },
+        {
+          "client_id": "347510839014-tvek9peo3fb0u69e9h9q6jtmhqqnht2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgvIdiP7Bns_EX3yYnSgBOVjZTOZxwG3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347510839014-tvek9peo3fb0u69e9h9q6jtmhqqnht2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
