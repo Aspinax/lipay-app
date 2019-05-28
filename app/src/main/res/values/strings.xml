@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Lipay</string>
+    <string name="menu_vector">main_menu</string>
+    <string name="search_lipay">Looking for something?</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="mpya">New</string>
+    <string name="steve">Steve</string>
+    <string name="my_account">My Account</string>
+    <string name="myaccount">My Account</string>
+    <string name="mybalance">My Balance</string>
+    <string name="currency">Ksh</string>
+    <string name="mybudget">My Budget</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="deposit">Deposit</string>
+    <string name="request">Request</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="send">Send</string>
+    <string name="home">Home</string>
+    <string name="payments">Payments</string>
+    <string name="scanqr">Scan QR</string>
+    <string name="receipts">Receipts</string>
+    <string name="insights">Insights</string>
+    <string name="quick_pay">Quick Pay</string>
+    <string name="coming_soon">Coming Soon!</string>
 </resources>
