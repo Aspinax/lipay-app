@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if (snapshot != null && snapshot.exists()) {
                     updateSharedPreferences(snapshot);
+                    updateUI();
                 }
             }
         });
