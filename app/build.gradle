@@ -26,7 +26,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:16.0.9'
     implementation 'com.google.firebase:firebase-auth:16.0.5'
     implementation 'com.google.firebase:firebase-firestore:17.1.2'
-    implementation 'com.google.firebase:firebase-functions:16.1.3'
+    implementation 'com.google.firebase:firebase-functions:19.0.2'
 
     //Ryan was here
     implementation 'de.hdodenhof:circleimageview:3.0.0'
